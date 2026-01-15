@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI App Factory",
+  "description": "A high-performance IDE for generating, previewing, and exporting full-stack applications using natural language and the power of Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
